@@ -1,3 +1,3 @@
 - 👋 Hi, I’m 2Behindert
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C++, Python, C#, Lua,
+- 👀 I’m interested in Coding and Skating 
+- 🌱 I’m currently learning to make cheats with C++, C#, 
