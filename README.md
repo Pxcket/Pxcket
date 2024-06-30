@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🌱 I’m currently trying to Improve My C++ And C# Skills 
 
 - 📫 How to reach me: Just Message me On discord @2behindert
+---
 
 Thank you for visiting my profile. I hope you find my work interesting and valuable. Let's connect and create something amazing together!
 
