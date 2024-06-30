@@ -1,3 +1,18 @@
-- 👋 Hi, I’m 2Behindert
-- 👀 I’m interested in Coding and Skating 
-- 🌱 I’m currently learning to make Cheats with C++, C#, 
+# Hi there, I'm 2Behindert! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new Technologies 
+
+## About Me
+
+- 🔭 I’m currently working on Cheats and HWID Spoofers
+
+- 🌱 I’m currently trying to Improve My C++ And C# Skills 
+
+- 📫 How to reach me: Just Message me On discord @2behindert
+
+Thank you for visiting my profile. I hope you find my work interesting and valuable. Let's connect and create something amazing together!
+
+---
+
+*This README was generated with ❤️ by 2Behindert.*
+
