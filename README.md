@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 2Behindert</h1>
-<h3 align="center">Solo Developer in my bedroom</h3>
+<h3 align="center">Solo Developer From my bedroom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
 
