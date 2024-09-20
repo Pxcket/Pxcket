@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2behindert" alt="2behindert" /></a> </p>
-
 - 🔭 I’m currently working on **Cheats, Spoofers, Macros**
 
 - 📫 How to reach me **You Simply Dont!**
