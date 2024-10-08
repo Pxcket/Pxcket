@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm 2Behindert</h1>
-<h3 align="center">Solo Developer & Music Artist</h3>
+<h3 align="center">
 
+   <a href="https://discord.com/users/1158897797869879297/"><img src="https://lanyard.cnrad.dev/api/1158897797869879297?bg=0d1117" height="180" width="auto"></a>
+     <br> 
+</h3>
+<details align="center">
+   <summary>Click to see more Stats</summary>
+
+   <br>
+    <img src="https://readme.anditv.dev/api/top-langs/?username=2Behindert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=23" height="180" width="auto">
+   <a href="https://github.com/2Behindert/"><img src="https://github-stats-alpha.vercel.app/api?username=2Behindert&cc=0d1117&tc=fff&ic=fff&bc=0d1117&var=23" height="180" width="auto"></a>
+</details>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
 
 - 🔭 I’m currently working on **Cheats, Spoofers, Macros**
