@@ -10,12 +10,14 @@
 </details>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
+
+
 - 🔭 I’m currently working on **Cheats, Programs, Utilities**
 
 - 📫 How to reach me **You Simply Dont!**
 
 - ⚡ Fun fact **I Dont Give a Single Fuck About Your opinion🔥**
-     <br> 
+     <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  </a> </p>
