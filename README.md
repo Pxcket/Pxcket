@@ -5,7 +5,7 @@
 <details align="center">
    <summary>Click to see more Stats</summary>
    <br>
- <p align="center">i stole this from my dear friend andi :) </p>
+ <p align="center"><a href="https://github.com/anditv21">i stole this from my dear friend andi :) </p>
    <a href="https://github.com/2Behindert/"><img src="https://github-stats-alpha.vercel.app/api?username=2Behindert&cc=0d1117&tc=fff&ic=fff&bc=0d1117&var=23" height="180" width="auto"></a>
 </details>
 <hr>
