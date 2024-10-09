@@ -8,12 +8,14 @@
  <p align="center">i stole this from my dear friend andi :) </p>
    <a href="https://github.com/2Behindert/"><img src="https://github-stats-alpha.vercel.app/api?username=2Behindert&cc=0d1117&tc=fff&ic=fff&bc=0d1117&var=23" height="180" width="auto"></a>
 </details>
+<hr>
+<h3 align="center">
+   
+🔭 I’m currently working on **Cheats, Programs, Utilities**
 
-- 🔭 I’m currently working on **Cheats, Programs, Utilities**
+📫 How to reach me **You Simply Dont!**
 
-- 📫 How to reach me **You Simply Dont!**
-
-- ⚡ Fun fact **I Dont Give a Single Fuck About Your opinion🔥**
+⚡ Fun fact **I Dont Give a Single Fuck About Your opinion🔥**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2behindert&label=Profile%20views&color=0e75b6&style=flat" alt="2behindert" /> </p>
