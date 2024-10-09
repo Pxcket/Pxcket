@@ -5,7 +5,7 @@
 <details align="center">
    <summary>Click to see more Stats</summary>
    <br>
-    <img src="https://readme.anditv.dev/api/top-langs/?username=2Behindert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=23" height="180" width="auto">
+ <p align="center">i stole this from my dear friend andi :) </p>
    <a href="https://github.com/2Behindert/"><img src="https://github-stats-alpha.vercel.app/api?username=2Behindert&cc=0d1117&tc=fff&ic=fff&bc=0d1117&var=23" height="180" width="auto"></a>
 </details>
 </p>
