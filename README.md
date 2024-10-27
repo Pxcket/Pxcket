@@ -1,5 +1,6 @@
-
 <h1 align="center">
+<img src="https://readme.anditv.dev/api/top-langs/?username=cl4vr&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=25" height="180" width="auto">
+	<h1 align="center">
    <a href="https://discord.com/users/1158897797869879297/"><img src="https://lanyard.cnrad.dev/api/1158897797869879297?bg=0d1117" height="300" width="auto"></a>
      <br> 
 </h1>
@@ -11,7 +12,7 @@
  <p align="center"><a href="https://github.com/anditv21">i stole this from my dear friend andi :) </p>
    <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl4vr&show_icons=true&theme=radical" alt="cl4vr" />
-<img src="https://readme.anditv.dev/api/top-langs/?username=cl4vr&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=25" height="180" width="auto">
+
 
    <h1 align="center">
 </p>
