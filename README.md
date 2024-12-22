@@ -23,7 +23,7 @@
 </details>
 <hr>
 <h1 align="center">
-<img src="https://komarev.com/ghpvc/?username=cl4vr&label=Profile%20views&color=0e75b6&style=plastic" alt="cl4vr" align="center" />
+<img src="https://komarev.com/ghpvc/?username=cl4vr&color=ff69b4" alt="cl4vr" align="center" />
 <h1 align="center">
  INFORMATION
 
