@@ -7,11 +7,11 @@
 ```csharp
 ----------------
 
-       OS  :  c
-       AU  :  l
-    Shell  :  4
- Terminal  :  v
-    Alias  :  r
+       OS  :  W11
+       AU  :  styr
+    Shell  :  gr
+ Terminal  :  shz
+    Alias  :  1nspo
     
 ----------------
 ```
