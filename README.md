@@ -9,7 +9,7 @@
 
        OS  :  Wnd
        AU  :  Upt
-    Shell  :  PW
+    Shell  :  PS
  Terminal  :  WT
     Alias  :  Zynco
     
