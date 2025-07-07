@@ -11,7 +11,7 @@
        AU  :  Upt
     Shell  :  PS
  Terminal  :  WT
-    Alias  :  packet/pocket
+    Alias  :  Packet
     
 ----------------
 ```
